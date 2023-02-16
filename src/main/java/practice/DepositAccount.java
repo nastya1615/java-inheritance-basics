@@ -1,9 +1,7 @@
 package practice;
 
-import java.time.Duration;
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Calendar;
 
 public class DepositAccount extends BankAccount {
 
